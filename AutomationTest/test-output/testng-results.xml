@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21991" started-at="2019-03-01T06:51:18Z" finished-at="2019-03-01T06:51:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21991" started-at="2019-03-01T06:51:18Z" finished-at="2019-03-01T06:51:40Z">
+      <class name="CreatCustomer">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:CreatCustomer@35835e65]" name="configBC" is-config="true" duration-ms="14026" started-at="2019-03-01T12:21:18Z" finished-at="2019-03-01T12:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:CreatCustomer@35835e65]" name="configBM" is-config="true" duration-ms="3561" started-at="2019-03-01T12:21:32Z" finished-at="2019-03-01T12:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="creatCustomer()[pri:0, instance:CreatCustomer@35835e65]" name="creatCustomer" duration-ms="23" started-at="2019-03-01T12:21:35Z" finished-at="2019-03-01T12:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatCustomer -->
+        <test-method status="PASS" signature="ConfigAM()[pri:0, instance:CreatCustomer@35835e65]" name="ConfigAM" is-config="true" duration-ms="3072" started-at="2019-03-01T12:21:35Z" finished-at="2019-03-01T12:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:CreatCustomer@35835e65]" name="configAC" is-config="true" duration-ms="1218" started-at="2019-03-01T12:21:38Z" finished-at="2019-03-01T12:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- CreatCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
